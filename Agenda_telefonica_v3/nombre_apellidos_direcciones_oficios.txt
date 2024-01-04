@@ -1,0 +1,200 @@
+Ingeniero de Software,Calle Imaginaria 123,Gabriel,Rodriguez
+Desarrollador de Frontend,Avenida de los Suenos 456,Valeria,Martinez
+Desarrollador de Backend,Paseo de las Utopias 789,Adrian,Gonzalez
+Ingeniero de DevOps,Calle de las Quimeras 101,Camila,Ramirez
+Desarrollador Full Stack,Avenida de las Fantasias 246,Sebastian,Herrera
+Cientifico de Datos,Paseo de los Ensuenos 369,Valentina,Castro
+Ingeniero de Aprendizaje Automatico,Calle de las Ilusiones 802,Daniel,Perez
+Analista de Datos,Avenida de los Anhelos 555,Isabella,Silva
+Ingeniero de Datos,Paseo de las Quimeras 777,Andres,Mendoza
+Especialista en Procesamiento de Lenguaje Natural (NLP),Calle de los Pensamientos 999,Maria,Torres
+Disenador Grafico,Calle de la Imaginacion 135,Juan,Hernandez
+Ilustrador,Avenida de la Esperanza 246,Valeria,Lopez
+Disenador de Experiencia de Usuario (UX),Paseo de los Deseos 357,Nicolas,Medina
+Editor de Video,Calle de los Suenos 468,Laura,Rojas
+Animador,Avenida de las Maravillas 579,Carlos,Vargas
+Especialista en SEO,Paseo de la Creacion 680,Natalia,Chavez
+Especialista en SEM (Marketing en Motores de Busqueda),Calle de la Magia 791,Diego,Ramirez
+Gerente de Marketing de Contenidos,Avenida de las Fantasias 802,Gabriela,Morales
+Analista de Redes Sociales,Paseo de la Ilusion 913,Jose,Gutierrez
+Especialista en Email Marketing,Calle de la Imaginacion 224,Sofia,Castro
+Contador,Avenida de los Anhelos 335,Francisco,Torres
+Analista Financiero,Paseo de las Maravillas 446,Antonia,Herrera
+Controller Financiero,Calle de los Suenos 557,Javier,Silva
+Analista de Riesgos,Avenida de los Pensamientos 668,Amelia,Ramirez
+Gestor de Inversiones,Paseo de las Utopias 779,Manuel,Ortiz
+Enfermero/a,Calle de las Quimeras 890,Martina,Rojas
+Medico/a,Avenida de los Deseos 901,Luis,Mendoza
+Terapeuta Ocupacional,Paseo de la Esperanza 112,Renata,Torres
+Investigador/a Medico/a,Calle de las Ilusiones 223,Fernando,Gonzalez
+Farmaceutico/a,Avenida de las Maravillas 334,Daniela,Rodriguez
+Profesor/a de Matematicas,Paseo de los Ensuenos 445,Ricardo,Herrera
+Instructor/a de Idiomas,Calle de los Anhelos 556,Clara,Vargas
+Consejero/a Academico/a,Avenida de las Fantasias 667,Pablo,Castro
+Administrador/a Escolar,Paseo de los Pensamientos 778,Olivia,Medina
+Disenador/a de Cursos en Linea,Calle de la Imaginacion 889,Ignacio,Ramirez
+Especialista en Recursos Humanos,Avenida de la Ilusion 990,Emma,Silva
+Reclutador/a,Paseo de las Utopias 211,Martin,Perez
+Analista de Compensacion y Beneficios,Calle de los Suenos 322,Catalina,Hernandez
+Consultor/a de Desarrollo Organizacional,Avenida de las Maravillas 433,Eduardo,Rojas
+Gerente de Recursos Humanos,Paseo de los Deseos 544,Alejandra,Torres
+Ingeniero/a Civil,Calle de las Quimeras 655,Guillermo,Chavez
+Ingeniero/a Electrico/a,Avenida de los Pensamientos 766,Paula,Rodriguez
+Ingeniero/a Mecanico/a,Paseo de la Esperanza 877,Jorge,Medina
+Ingeniero/a de Software Embebido,Calle de las Ilusiones 988,Juana,Herrera
+Ingeniero/a de Control de Calidad,Avenida de las Fantasias 199,Oscar,Torres
+Representante de Servicio al Cliente,Paseo de los Ensuenos 210,Mariana,Silva
+Especialista en Soporte Tecnico,Calle de los Anhelos 321,Mateo,Ramirez
+Gerente de Servicio al Cliente,Avenida de la Magia 432,Emilia,Rojas
+Especialista en Retencion de Clientes,Paseo de las Maravillas 543,Roberto,Gonzalez
+Coordinador/a de Servicio al Cliente,Calle de la Imaginacion 654,Antonella,Castro
+Analista de Negocios,Avenida de los Suenos 765,Alvaro,Herrera
+Consultor/a de Negocios,Paseo de la Creacion 876,Elena,Mendoza
+Gerente de Proyectos,Calle de la Ilusion 987,Sergio,Silva
+Analista de Sistemas,Avenida de los Anhelos 198,Renata,Ramirez
+Administrador/a de Redes,Paseo de las Quimeras 209,Alberto,Vargas
+Especialista en Seguridad Informatica,Calle de los Pensamientos 320,Jimena,Torres
+Desarrollador de Juegos,Avenida de las Utopias 431,Raul,Hernandez
+Arquitecto/a de Soluciones,Paseo de las Fantasias 542,Constanza,Rojas
+Investigador/a de Mercado,Calle de las Ilusiones 653,Rodrigo,Medina
+Planificador/a de Eventos,Avenida de la Esperanza 764,Beatriz,Chavez
+Escritor/a Tecnico/a,Paseo de los Deseos 875,Julian,Torres
+Periodista,Calle de la Imaginacion 986,Luciana,Rodriguez
+Traductor/a,Avenida de las Maravillas 197,Armando,Herrera
+Agente de Viajes,Paseo de los Ensuenos 208,Adriana,Castro
+Fotografo/a,Calle de los Anhelos 319,Arturo,Ramirez
+Productor/a de Cine,Avenida de la Ilusion 430,Patricia,Silva
+Investigador/a de Operaciones,Paseo de las Utopias 541,Mauricio,Gonzalez
+Tecnico/a de Laboratorio,Calle de los Suenos 652,Lourdes,Ramirez
+Biologo/a,Avenida de los Pensamientos 763,Alfonso,Herrera
+Quimico/a,Paseo de la Creacion 874,Rosario,Torres
+Geologo/a,Calle de la Magia 985,Gonzalo,Medina
+Piloto/a,Avenida de las Fantasias 196,Fabiana,Chavez
+Controlador/a de Trafico Aereo,Paseo de las Quimeras 207,Victor,Ramirez
+Ingeniero/a de Sistemas Embebidos,Calle de las Ilusiones 318,Viviana,Silva
+Disenador/a Industrial,Avenida de los Anhelos 429,Esteban,Rojas
+Consultor/a de Imagen,Paseo de las Maravillas 540,Isabel,Mendoza
+Asistente Virtual,Calle de la Imaginacion 651,Emiliano,Torres
+Especialista en Impuestos,Avenida de la Esperanza 762,Silvia,Ramirez
+Arquitecto/a,Paseo de los Deseos 873,Samuel,Herrera
+Urbanista,Calle de los Suenos 984,Roxana,Castro
+Paisajista,Avenida de las Utopias 195,Guillermo,Gonzalez
+Fotografo/a de Bodas,Paseo de los Ensuenos 206,Marina,Medina
+Artista Digital,Calle de los Anhelos 317,Ramon,Silva
+Analista de Politicas Publicas,Avenida de la Ilusion 428,Lorena,Torres
+Lobbyista,Paseo de las Quimeras 539,Jesus,Ramirez
+Especialista en Energias Renovables,Calle de los Pensamientos 650,Delfina,Herrera
+Investigador/a de Energia,Avenida de las Fantasias 761,Miguel,Castro
+Analista de Transporte,Paseo de la Creacion 872,Marcela,Rodriguez
+Inspector/a de Construccion,Calle de la Magia 983,Orlando,Torres
+Gerente de Logistica,Avenida de los Suenos 194,Adrianna,Silva
+Planificador/a Financiero/a,Paseo de las Maravillas 205,Roberto,Gonzalez
+Auditor/a,Calle de la Imaginacion 316,Agustina,Ramirez
+Asesor/a Financiero/a,Avenida de la Esperanza 427,Alfonso,Herrera
+Consultor/a de Software,Paseo de los Anhelos 538,Valery,Castro
+Especialista en Realidad Virtual,Calle de las Ilusiones 649,Federico,Torres
+Analista de Rendimiento Deportivo,Avenida de los Pensamientos 760,Giselle,Ramirez
+Nutricionista,Paseo de los Deseos 871,Bruno,Silva
+Entrenador/a Personal,Calle de los Suenos 982,Miranda,Chavez
+Psicologo/a Organizacional,Avenida de las Utopias 193,Manuel,Rodriguez
+Coordinador/a de Voluntarios,Paseo de los Ensuenos 204,Carolina,Torres
+Ingeniero/a de Procesos,Calle de los Anhelos 315,Hector,Herrera
+Analista de Sistemas,Avenida de la Ilusion 426,Rebeca,Silva
+Especialista en Automatizacion Industrial,Paseo de las Quimeras 537,Luis,Hernandez
+Investigador/a de Mercados,Calle de los Pensamientos 648,Vanessa,Rojas
+Especialista en Desarrollo de Negocios,Avenida de las Fantasias 759,Rodrigo,Torres
+Gerente de Operaciones,Paseo de la Creacion 870,Cecilia,Ramirez
+Especialista en Gestion de Proyectos,Calle de la Magia 981,Alejandro,Perez
+Coordinador/a de Eventos,Avenida de los Suenos 192,Angela,Gonzalez
+Especialista en Finanzas Corporativas,Paseo de las Maravillas 203,Felipe,Medina
+Tecnico/a de Soporte,Calle de la Imaginacion 314,Natalia,Vargas
+Gerente de Ventas,Avenida de la Esperanza 425,Javier,Rojas
+Especialista en Compensacion y Beneficios,Paseo de los Anhelos 536,Valeria,Silva
+Tecnico/a de Radiologia,Calle de las Ilusiones 647,Francisco,Ramirez
+Terapeuta Fisico/a,Avenida de los Pensamientos 758,Brenda,Herrera
+Analista de Sistemas de Informacion Geografica (GIS),Paseo de los Deseos 869,Oscar,Torres
+Disenador/a de Interiores,Calle de los Suenos 980,Maritza,Castro
+Consultor/a de Marketing Digital,Avenida de las Utopias 191,Alberto,Ramirez
+Asistente Ejecutivo/a,Paseo de los Ensuenos 202,Ana,Herrera
+Asesor/a Legal,Calle de los Anhelos 313,Benjamin,Torres
+Especialista en Evaluacion de Riesgos,Avenida de la Ilusion 424,Iris,Silva
+Administrador/a de Base de Datos,Paseo de las Quimeras 535,Fernando,Medina
+Tecnico/a en Sonido,Calle de los Pensamientos 646,Edith,Rojas
+Editor/a de Contenido Web,Avenida de las Fantasias 757,Luisa,Ramirez
+Especialista en Seguros,Paseo de la Creacion 868,Susana,Mendoza
+Especialista en Desarrollo Web,Calle de la Magia 979,Marco,Torres
+Disenador/a de Moda,Avenida de los Suenos 190,Angelica,Chavez
+Especialista en Planificacion Financiera,Paseo de las Maravillas 201,Alvaro,Herrera
+Especialista en Gestion Ambiental,Calle de la Imaginacion 312,Irma,Torres
+Tecnico/a de Ingenieria Electrica,Avenida de la Esperanza 423,Javier,Rojas
+Especialista en Diseno Instruccional,Paseo de los Anhelos 534,Estela,Ramirez
+Especialista en Relaciones Publicas,Calle de las Ilusiones 645,Roberto,Mendoza
+Disenador/a de Paisajes,Avenida de los Pensamientos 756,Alejandra,Silva
+Especialista en Investigacion de Mercado,Paseo de los Deseos 867,Salvador,Medina
+Especialista en Control de Calidad,Calle de los Suenos 978,Marisol,Torres
+Asesor/a de Imagen Personal,Avenida de las Utopias 189,Juan,Torres
+Especialista en Seguridad Alimentaria,Paseo de los Ensuenos 200,Leticia,Herrera
+Analista de Sistemas de Informacion,Calle de los Anhelos 311,Gustavo,Castro
+Especialista en Diseno de Juegos,Avenida de la Ilusion 422,Monica,Ramirez
+Editor/a de Imagenes,Paseo de las Quimeras 533,Ricardo,Mendoza
+Especialista en Redes Sociales,Calle de los Pensamientos 644,Raquel,Silva
+Gerente de Recaudacion de Fondos,Avenida de las Fantasias 755,Alejandro,Ramirez
+Especialista en Evaluacion del Desempeno,Paseo de la Creacion 866,Jazmin,Torres
+Especialista en Impuestos Corporativos,Calle de la Magia 977,Ignacio,Herrera
+Especialista en Marketing de Contenido,Avenida de los Suenos 188,Brenda,Gonzalez
+Tecnico/a de Laboratorio Clinico,Paseo de las Maravillas 199,Cesar,Silva
+Especialista en Ciencia de Datos Ambientales,Calle de la Imaginacion 310,Rosalinda,Ramirez
+Especialista en Politica Energetica,Avenida de la Esperanza 421,Francisco,Hernandez
+Especialista en Recuperacion de Datos,Paseo de los Anhelos 532,Maritza,Torres
+Especialista en Diseno de Productos,Calle de las Ilusiones 643,Alberto,Castro
+Especialista en Desarrollo de Aplicaciones Moviles,Avenida de los Pensamientos 754,Ana,Silva
+Especialista en Desarrollo de Negocios Internacionales,Paseo de los Deseos 865,Benjamin,Torres
+Especialista en Sistemas de Informacion Geografica (GIS),Calle de los Suenos 976,Iris,Ramirez
+Especialista en Gestion de la Cadena de Suministro,Avenida de las Utopias 187,Fernando,Rojas
+Analista de Rendimiento Financiero,Paseo de los Ensuenos 198,Edith,Herrera
+Tecnico/a de Ingenieria Civil,Calle de los Anhelos 309,Luis,Torres
+Especialista en Comunicaciones Tecnicas,Avenida de la Ilusion 420,Susana,Ramirez
+Especialista en Derecho Laboral,Paseo de las Quimeras 531,Marco,Castro
+Especialista en Desarrollo de Talento,Calle de los Pensamientos 642,Angelica,Medina
+Especialista en Sistemas de Informacion de Salud,Avenida de las Fantasias 753,Alvaro,Torres
+Disenador/a de Juguetes,Paseo de la Creacion 864,Irma,Silva
+Especialista en Diseno de Redes,Calle de la Magia 975,Javier,Herrera
+Especialista en Inteligencia de Negocios (BI),Avenida de los Suenos 186,Estela,Ramirez
+Especialista en Desarrollo de Aplicaciones Empresariales,Paseo de las Maravillas 197,Roberto,Mendoza
+Especialista en Desarrollo Sostenible,Calle de la Imaginacion 308,Alejandra,Chavez
+Especialista en Analisis de Riesgos Financieros,Avenida de la Esperanza 419,Martin,Silva
+Especialista en Educacion en Linea,Paseo de los Anhelos 530,Elena,Ramirez
+Especialista en Control de Procesos,Calle de las Ilusiones 641,Edgar,Torres
+Especialista en Marketing de Influencers,Avenida de los Pensamientos 752,Selena,Herrera
+Analista de Investigacion de Operaciones,Paseo de los Deseos 863,Guillermo,Ramirez
+Especialista en Sistemas de Informacion de Recursos Humanos,Calle de los Suenos 974,Araceli,Castro
+Especialista en Desarrollo de Software Empresarial,Avenida de las Utopias 185,Manuel,Torres
+Especialista en Diseno de Interfaz de Usuario (UI),Paseo de los Ensuenos 196,Olivia,Silva
+Analista de Inversiones Inmobiliarias,Calle de los Anhelos 307,Sergio,Ramirez
+Especialista en Desarrollo de Videojuegos,Avenida de la Ilusion 418,Mariana,Castro
+Especialista en Diseno de Experiencia del Usuario (UX),Paseo de las Quimeras 529,Mauricio,Silva
+Especialista en Seguridad en la Informacion,Calle de los Pensamientos 640,Esperanza,Ramirez
+Especialista en Desarrollo de Software Integrado,Avenida de las Fantasias 751,Diego,Torres
+Especialista en Estadisticas de Salud,Paseo de la Creacion 862,Sonia,Herrera
+Especialista en Planificacion Urbana,Calle de la Magia 973,Hugo,Castro
+Especialista en Tecnologias de la Informacion en Salud (IT Health),Avenida de los Suenos 184,Miriam,Silva
+Especialista en Optimizacion de Motores de Busqueda (SEO),Paseo de las Maravillas 195,Omar,Ramirez
+Analista de Datos de Salud,Calle de la Imaginacion 306,Mayra,Torres
+Especialista en Desarrollo de Aplicaciones Web,Avenida de la Esperanza 417,Juan,Herrera
+Especialista en Evaluacion de Impacto Ambiental,Paseo de los Anhelos 528,Iris,Rojas
+Especialista en Robotica,Calle de las Ilusiones 639,Jose,Silva
+Especialista en Gestion de la Energia,Avenida de los Pensamientos 750,Martha,Castro
+Especialista en Desarrollo de Productos Digitales,Paseo de los Deseos 861,Ruben,Ramirez
+Especialista en Comunicaciones Cientificas,Calle de los Suenos 972,Karina,Herrera
+Especialista en Desarrollo de Software de Seguridad,Avenida de las Utopias 183,Hector,Torres
+Especialista en Politicas Educativas,Paseo de los Ensuenos 194,Lidia,Silva
+Especialista en Diseno de Juguetes Educativos,Calle Imaginaria 123,Gabriel,Ramirez
+Especialista en Analisis de Datos Financieros,Avenida de los Suenos 456,Isabel,Torres
+Especialista en Desarrollo de Software Medico,Paseo de las Utopias 789,Arturo,Castro
+Especialista en Diseno de Productos Sustentables,Calle de las Quimeras 101,Adriana,Herrera
+Especialista en Sistemas de Informacion de Mercadotecnia (MIS),Avenida de las Fantasias 246,Raul,Torres
+Especialista en Ingenieria del Sonido,Paseo de los Ensuenos 369,Aurora,Silva
+Especialista en Comunicaciones Tecnicas,Calle de las Ilusiones 802,Alberto,Herrera
+Analista de Datos de Trafico,Avenida de los Anhelos 555,Rebeca,Ramirez
+Especialista en Diseno de Juegos Educativos,Paseo de las Quimeras 777,Rafael,Torres
+Especialista en Politica Energetica,Paseo de los Deseos 357,Eugenia,Silva
