@@ -25,3 +25,12 @@ Puede buscar y editar usuarios, los datos se almacena en el archivo data.json
 ```
 
 Despues de crear el usuario se genera un log.json que contiene el id y la fecha.
+
+**Ejemplo**
+
+```json
+  {
+    "ID": "FG1836R",
+    "FECHA": "2024-01-04 01:29"
+  }
+```
