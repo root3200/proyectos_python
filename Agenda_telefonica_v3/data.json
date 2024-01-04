@@ -592,5 +592,27 @@
       "direccion": "Avenida de las Maravillas 579",
       "trabajo": "Animador"
     }
+  },
+  {
+    "id": "FG1317R",
+    "nombre": "Guillermo",
+    "apellido": "Gonzalez",
+    "informacion": {
+      "edad": 26,
+      "sexo": "H/M/B",
+      "direccion": "Avenida de las Utopias 195",
+      "trabajo": "Paisajista"
+    }
+  },
+  {
+    "id": "FG3962R",
+    "nombre": "Raquel",
+    "apellido": "Silva",
+    "informacion": {
+      "edad": 22,
+      "sexo": "H/M/B",
+      "direccion": "Calle de los Pensamientos 644",
+      "trabajo": "Especialista en Redes Sociales"
+    }
   }
 ]

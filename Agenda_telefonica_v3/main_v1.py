@@ -1,14 +1,30 @@
 import json
 import random
 from datetime import datetime
+import os
 
-PATH = "/home/r4m3200/Escritorio/python_ejercicios/Agenda_telefonica_v3/data.json"
-PATH2 = "/home/r4m3200/Escritorio/python_ejercicios/Agenda_telefonica_v3/nombre_apellidos_direcciones_oficios.txt"
-PATH3 = "/home/r4m3200/Escritorio/python_ejercicios/Agenda_telefonica_v3/log.json"
+##ARCHIVOS
+PATH = "data.json"
+PATH2 = "nombre_apellidos_direcciones_oficios.txt"
+PATH3 = "log.json"
 
-# id_ = random.randint(1000,9999)
-# n1 = datetime.now()
-# fecha_ = n1.strftime("%Y-%m-%d %H:%M")
+##VERIFICAR 
+def crear_archivos():
+    ruta_1 = os.path.join(os.getcwd(), PATH)
+    ruta_3 = os.path.join(os.getcwd(), PATH3)
+
+    try:
+        with open(PATH, "r") as f:
+            f.read()
+        with open(PATH3, "r") as f:
+            f.read()
+
+    except FileNotFoundError as e:
+        if e.strerror == "No such file or directory":
+            with open(ruta_1, "x") as f:
+                f.write("[\n\n]")
+            with open(ruta_3, "x") as f:
+                f.write("[\n\n]")
 
 def datos_aleatorios():##NOMBRES ,APELLIDOS, DRIECCIONES, OFICIOS ALEATORIOS
 
@@ -167,7 +183,7 @@ def editar_usuario():
 
 
 def menu():
-    
+    crear_archivos()
     while True:
         
         opcion = input("1.Agregar usuario \n2.Buscar usuario \n3.Editar usuario \n4.Salir \n:> ")
