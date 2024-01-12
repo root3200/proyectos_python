@@ -7,7 +7,7 @@ Aplicacion que registra usuarios a partir de un archivo txt que contiene:
 + Oficios
 + Direcciones
 
->[!]-Datos ficticios
+> Datos ficticios
 
 Puede buscar y editar usuarios, los datos se almacena en el archivo data.json
 
