@@ -4,9 +4,9 @@ from datetime import datetime
 import os
 
 ##ARCHIVOS
-PATH = "data.json"
-PATH2 = "nombre_apellidos_direcciones_oficios.txt"
-PATH3 = "log.json"
+PATH = "app_registro_de_usuarios/data.json"
+PATH2 = "app_registro_de_usuarios/nombre_apellidos_direcciones_oficios.txt"
+PATH3 = "app_registro_de_usuarios/log.json"
 
 ##VERIFICAR 
 def crear_archivos():
@@ -89,7 +89,12 @@ def buscar_usuario():
     ##ABRIR ARCHIVO JSON MODO LECTURA
     with open(PATH, "r") as f:
         f_data = json.load(f)
-        busqueda = input("ID usuario: ")
+        while True:
+            busqueda = input("ID usuario: ")
+            if busqueda:
+                break
+            else:
+                print("[!] - No puedes dejar el campo vacio")
         existe = False
         #global index
         for index, i in enumerate(f_data):
@@ -104,7 +109,7 @@ def buscar_usuario():
             print(f"[!] - El usuario {busqueda} no existe")
 
 
-def editar_usuario():
+def editar_usuario():#EDITAR NOMBRE, APELLIDO, DIRECCION Y TRABAJO.
     
     print("[!] - EDITAR USUARIO\n")
     #buscar_usuario()
@@ -112,6 +117,7 @@ def editar_usuario():
     while True:
         
         opcion = input("Editar usuario \n1-nombre\n2-apelldio\n3-direccion\n4-trabajo\n5-Salir\n:> ")
+
         if opcion == "1":
             
             with open(PATH, 'r') as f:
@@ -132,7 +138,7 @@ def editar_usuario():
             with open(PATH, 'r') as f:
                 f_data = json.load(f)
                 
-                while True:
+                while True:#EVITAR QUE EL CAMPO QUEDE VACIO
                     cambio = input("nuevo apellido: ")
                     f_data[index_]['apellido'] = cambio
                     if cambio:
@@ -147,7 +153,7 @@ def editar_usuario():
             with open(PATH, 'r') as f:
                 f_data = json.load(f)
                 
-                while True:
+                while True:#EVITAR QUE EL CAMPO QUEDE VACIO
                     cambio = input("nueva Direccion : ")
                     f_data[index_]['informacion']['direccion'] = cambio
                     if cambio:
@@ -162,7 +168,7 @@ def editar_usuario():
             with open(PATH, 'r') as f:
                 f_data = json.load(f)
                 
-                while True:
+                while True:#EVITAR QUE EL CAMPO QUEDE VACIO
                     cambio = input("nuevo Trabajo: ")
                     f_data[index_]['informacion']['trabajo'] = cambio
                     if cambio:
@@ -173,9 +179,9 @@ def editar_usuario():
                 json.dump(f_data , f, indent=2)
         
         elif opcion == "5":
-            print("Usuario actualizado ....")
-            buscar_usuario()
-            print("Saliendo editor de usuarios...")
+            print("[!]-Usuario actualizado\nSaliendo editor de usuarios...\n")
+            #buscar_usuario()
+            #print("Saliendo editor de usuarios...")
             break
         
         else:
