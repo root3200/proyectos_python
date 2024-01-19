@@ -8,7 +8,7 @@
     {
       "confluence": {
         "url": "https://USER.atlassian.net",
-        "usernames": "TU-USURIO",
+        "usernames": "TU-USURAIO",
         "private_token": "TU-TOKEN"
       }
     }
