@@ -2,14 +2,14 @@
     {
       "gitlab": {
         "url": "https://gitlab.com",
-        "private_token": "glpat-yjytafs3A5YJW5m2b32s"
+        "private_token": "TU-TOKEN"
       }
     },
     {
       "confluence": {
-        "url": "https://r4m3200.atlassian.net",
-        "usernames": "jazper3200@gmail.com",
-        "private_token": "ATATT3xFfGF0y3s0T3eJE4RJ1CCNcbgRSacxFnSZe8i5Ozd3rYXTVBSl5_ibuyJTE_Q7VaFhEkgbcUnsT9kEzFEYF2fZdfdhGt8QTMh0GQAmBYF69XHIuP4bHSHcVw54qAxNGY7Uih2hBjBk3PYEVSFXklQdqc94TuJCt74q370_5yMg-n1BSV8=D6674F20"
+        "url": "https://USER.atlassian.net",
+        "usernames": "TU-USURIO",
+        "private_token": "TU-TOKEN"
       }
     }
   ]
